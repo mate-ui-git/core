@@ -1,4 +1,4 @@
-import Api from '../src/api/main'
+import Api from '../src/api'
 
 test('测试：API地址映射(无mock)', () => {
   const config = {
